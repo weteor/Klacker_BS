@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "weteor")(type "KiCad")(uri "/home/matthias/Data/proj/Klacker_M/pcb/part_library/weteor.pretty")(options "")(descr ""))
+  (lib (name "ms88sf2_oreore")(type "KiCad")(uri "/home/matthias/Data/proj/Klacker_M/pcb/ms88sf2_oreore.pretty")(options "")(descr ""))
+  (lib (name "other_parts")(type "KiCad")(uri "/home/matthias/.build/le_chiff_ble/kicad/other_parts.pretty")(options "")(descr ""))
+)
