@@ -8,6 +8,7 @@ a 3x5+2 split keyboard hidden in a row staggered unibody design w/ numpad
 - MX hotswap
 - compact design
 - layout for comfortable typing, straight wrist and minimal fingermovement
+- reversable pcb w/ numpad breakoff - Layout options: Numpad Right, Left or None
 - Bluetooth and USB connection 
 - case files are supplied (stl, step, as well as freecad files)
 - ZMK firmware support
