@@ -1,5 +1,5 @@
 # Klacker_BS
-![klacker front](./img/klacker_front.jpg)
+![klacker front](./img/KlackUndKlacker.jpg)
 
 a 3x5+2 split keyboard hidden in a row staggered unibody design w/ numpad
 
@@ -35,4 +35,7 @@ The Tipper TF uses ZMK firmware.
 
 If you prefer the github workflow, you can find the zmk config for the Klacker BS [here](https://github.com/weteor/Klacker_BS-Config). 
 
-
+### pictures
+![klacker front](./img/klacker_front.jpg)
+![klack mt](./img/klack_mt.jpg)
+![klack front](./img/klack.jpg)
