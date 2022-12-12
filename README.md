@@ -35,6 +35,11 @@ The Tipper TF uses ZMK firmware.
 
 If you prefer the github workflow, you can find the zmk config for the Klacker BS [here](https://github.com/weteor/Klacker_BS-Config). 
 
+## the rest
+Everything in this repository is free to use however you might see fit. If you want to support me and my projects, please consider linking back to this repository if you build/change/use anything. 
+
+If you would like to send me a tip, you could do it [here](https://ko-fi.com/weteor) (Please don't feel like you have to).
+
 ### pictures
 ![klacker front](./img/klacker_front.jpg)
 ![klack mt](./img/klack_mt.jpg)
